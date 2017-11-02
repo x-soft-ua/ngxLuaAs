@@ -2,5 +2,5 @@
 
 Installation
 ```
-git clone https://github.com/x-soft-ua/ngxLuaAs; chmod +x ./install.sh; chmod +x ./build_linux.sh; cd ./ngxLuaAs/; ./install.sh
+git clone https://github.com/x-soft-ua/ngxLuaAs; cd ./ngxLuaAs/; ./install.sh
 ```
