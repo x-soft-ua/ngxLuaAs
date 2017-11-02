@@ -1,4 +1,4 @@
-#Nginx 1.13.1 with xLuaAerospike
+#Nginx 1.13.6 with xLuaAerospike
 
 Installation
 ```
